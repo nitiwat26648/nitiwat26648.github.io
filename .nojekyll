@@ -1,3 +1,4 @@
 .nojekyll 
 
-gh-pages -d build -t true
+
+
